@@ -1,3 +1,8 @@
+
+/*ESTA ES UNA VERSION ANTERIOR LA BASE DE DATOS FINAL 
+ES LA QUE SE LLAMA seriousgame_fn.backup ESTA VERSION NO SE LA BORRA PARA QUE
+PUEDA SER VISUALIZADA EN EL CASO DE SER NECESARIO. :)*/
+
 -- Crear la tabla de usuarios para docentes y administradores
 CREATE TABLE usuarios (
     usuario_id SERIAL PRIMARY KEY,
